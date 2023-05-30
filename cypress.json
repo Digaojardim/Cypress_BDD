@@ -3,5 +3,6 @@
   "baseUrl": "https://tinnova-teste-qa.vercel.app/",
   "viewportHeight": 900,
   "viewportWidth": 1400,
-  "defaultCommandTimeout": 10000
+  "defaultCommandTimeout": 10000,
+  "pluginsFile": false
 }
